@@ -7,3 +7,6 @@ Hello! I'm Rutvij A, an enthusiastic engineering graduate with a passion for tac
 Throughout my academic journey, I have participated in numerous hands-on projects, and collaborated with cross-functional teams to deliver impactful results.
 
 As I embark on my professional journey, I am seeking opportunities to contribute my skills and grow within a dynamic and forward-thinking organization. Let's connect and explore how we can work together to drive innovation and success
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rutvij-a" alt="GitHub Streak" /></a>
