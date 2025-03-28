@@ -8,3 +8,5 @@ Throughout my academic journey, I have participated in numerous hands-on project
 As I embark on my professional journey, I am seeking opportunities to contribute my skills and grow within a dynamic and forward-thinking organization. Let's connect and explore how we can work together to drive innovation and success!
 
 ![rutvij-a's Stats](https://github-readme-stats.vercel.app/api?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![rutvij-a's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rutvij-a&theme=vue-dark&hide_border=true)
+![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
