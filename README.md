@@ -11,7 +11,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 ![rutvij-a's Stats](https://github-readme-stats.vercel.app/api?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)<br>
 
-**If ever want to contact me!**
+**If ever want to contact me!** <br>
     [<img src="https://www.google.com/imgres?q=instagram%20colored%20logo%20without%20background&imgurl=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Flogo-instagram-116587966427mvdfvahmo.png&imgrefurl=https%3A%2F%2Ftoppng.com%2Ffree-image%2Flogo-instagram-PNG-free-PNG-Images_475592&docid=Y8rO16GnNic7nM&tbnid=YzqZsw1iUO-mBM&w=840&h=859&hcb=2" alt="Social Media Logo" width="30" height="30">](https://www.instagram.com/rutvij_a/)
 
 <br>![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
