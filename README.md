@@ -8,10 +8,10 @@ Throughout my academic journey, I have participated in numerous hands-on project
 
 As I embark on my professional journey, I am seeking opportunities to contribute my skills and grow within a dynamic and forward-thinking organization. Let's connect and explore how we can work together to drive innovation and success!
 
-👇👇Please do have a look at my GitHub Stats👇👇
+👇👇Please do have a look at my GitHub Stats👇👇 <br>
 ![rutvij-a's Stats](https://github-readme-stats.vercel.app/api?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)<br>
 
-👇👇**If ever want to contact me!**👇👇 <br>
+👇👇 **If ever want to contact me!** 👇👇 <br>
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Social Media Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
 
 <br>![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
