@@ -12,6 +12,6 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 ![rutvij-a's Stats](https://github-readme-stats.vercel.app/api?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)<br>
 
 **If ever want to contact me!**
-
+    [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo-png&psig=AOvVaw2EctlQBp428y7tcHfDRIqJ&ust=1743804905079000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDss9TxvIwDFQAAAAAdAAAAABAE" alt="Social Media Logo" width="30" height="30">](https://www.instagram.com/rutvij_a/)
 
 <br>![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
