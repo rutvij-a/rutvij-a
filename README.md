@@ -17,7 +17,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkedIn Logo" width="50px" height="50px">](https://www.linkedin.com/in/rutvij-ambodkar/)
 [<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Facebook Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
-[<img src="https://i.pinimg.com/474x/f3/ed/10/f3ed104e0a8c16d68fa96d7177f4e0ee.jpg" alt="Twitter Logo" width="50px" height="50px">](https://x.com/007rutvij)
+[<img src="https://png.pngtree.com/element_our/sm/20180626/sm_5b32227ca3eb9.jpg" alt="Twitter Logo" width="50px" height="50px">](https://x.com/007rutvij)
 
 <h4>Languages and Tools</h4> <br>
 
