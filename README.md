@@ -19,8 +19,9 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 [<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Facebook Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
 [<img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="Twitter Logo" width="50px" height="50px">](https://x.com/007rutvij)
 
-<h4>Languages and Tools</h4> <br>
+<h3>Languages and Tools</h3> <br>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">
+<img src="https://p7.hiclipart.com/preview/241/797/259/cascading-style-sheets-css3-javascript-logo-world-wide-web.jpg" alt="CSS Logo" width="50px" height="50px">
 
 ![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=default&show_icons=true&hide_border=true&layout=compact)
