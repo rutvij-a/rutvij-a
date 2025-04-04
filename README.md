@@ -16,4 +16,5 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="Social Media Logo" width="50px" height="50px">](https://www.linkedin.com/in/rutvij-ambodkar/)
 [<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Social Media Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
 
+<h6>Languages and Tools</h6>
 <br>![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=default&show_icons=true&hide_border=true&layout=compact)
