@@ -8,15 +8,16 @@ Throughout my academic journey, I have participated in numerous hands-on project
 
 As I embark on my professional journey, I am seeking opportunities to contribute my skills and grow within a dynamic and forward-thinking organization. Let's connect and explore how we can work together to drive innovation and success!</div><br>
 
-<h3> 👇👇 Please do have a look at my GitHub Stats 👇👇 </h3> <br>
+<h4> 👇👇 Please do have a look at my GitHub Stats 👇👇 </h4> <br>
 
 ![rutvij-a's Stats](https://github-readme-stats.vercel.app/api?username=rutvij-a&theme=default&show_icons=true&hide_border=true&count_private=true)<br>
 
-👇👇 **If ever want to contact me!** 👇👇 <br> <br>
+<h4> 👇👇 If ever want to contact me! 👇👇 </h4> <br>
+
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Social Media Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="Social Media Logo" width="50px" height="50px">](https://www.linkedin.com/in/rutvij-ambodkar/)
 [<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Social Media Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
 
-<h3>Languages and Tools</h3> <br>
+<h4>Languages and Tools</h4> <br>
 
 ![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=default&show_icons=true&hide_border=true&layout=compact)
