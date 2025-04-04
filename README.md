@@ -23,6 +23,6 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">]()
 [<img src="https://static-00.iconduck.com/assets.00/css3-plain-icon-1803x2048-o5nd73vf.png" alt="CSS Logo" width="50px" height="50px">]()
-[<img src="https://icon2.cleanpng.com/20180513/qgw/avrdx3jd3.webp" alt="JS Logo" width="50px" height="50px">]()
+[<img src="https://toppng.com/uploads/preview/javascript-logo-number-angularjs-node-javascript-logo-11563241338go76tq0nxz.png" alt="JS Logo" width="50px" height="50px">]()
 
 ![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=default&show_icons=true&hide_border=true&layout=compact)
