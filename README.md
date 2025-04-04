@@ -14,10 +14,14 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 <h4> 👇👇 If ever want to contact me! 👇👇 </h4> <br>
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Social Media Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
-[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="Social Media Logo" width="50px" height="50px">](https://www.linkedin.com/in/rutvij-ambodkar/)
-[<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Social Media Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
+[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkedIn Logo" width="50px" height="50px">](https://www.linkedin.com/in/rutvij-ambodkar/)
+[<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Facebook Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
+[<img src="https://i.pinimg.com/474x/7d/44/d5/7d44d55ead7dda48bd95632d92fb259d.jpg" alt="Twitter Logo" width="50px" height="50px">](https://x.com/007rutvij)
 
 <h4>Languages and Tools</h4> <br>
+<a><img src="https://p7.hiclipart.com/preview/116/40/1024/angle-area-text-brand-other-html-5-thumbnail.jpg" width="50px" height="50px"></a>
+<a><img src="https://icon2.cleanpng.com/20180429/ukw/kisspng-cascading-style-sheets-html-web-page-5ae55eb45423e6.4422717315249814283446.jpg" width="50px" height="50px"></a>
+<a><img src="hhttps://www.clipartmax.com/png/middle/150-1504620_javascript-logo.png" width="50px" height="50px"></a>
 
 ![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=default&show_icons=true&hide_border=true&layout=compact)
