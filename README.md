@@ -14,6 +14,6 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 👇👇 **If ever want to contact me!** 👇👇 <br> <br>
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Social Media Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="Social Media Logo" width="50px" height="50px">](https://www.linkedin.com/in/rutvij-ambodkar/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="Social Media Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
+[<img src="https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png" alt="Social Media Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
 
 <br>![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
