@@ -21,6 +21,6 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 <h4>Languages and Tools</h4> <br>
 
-<img src="https://p7.hiclipart.com/preview/116/40/1024/angle-area-text-brand-other-html-5-thumbnail.jpg" alt="HTML Logo" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">
 
 ![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=default&show_icons=true&hide_border=true&layout=compact)
