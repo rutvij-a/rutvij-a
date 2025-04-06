@@ -2,7 +2,7 @@
 
 <div>🔧 Engineering Graduate | Problem Solver | Innovator
 
-An enthusiastic engineering graduate with a passion for tackling complex problems and devising innovative solutions. Armed with a Bachelor's degree in Electronics Engineering, I thrive on challenges and am always eager to learn and adapt in a fast-paced environment.
+An enthusiastic engineering graduate with a passion for tackling complex problems and devising innovative solutions. I thrive on challenges and am always eager to learn and adapt in a fast-paced environment.
 
 Throughout my academic journey, I have participated in numerous hands-on projects, and collaborated with cross-functional teams to deliver impactful results.
 
