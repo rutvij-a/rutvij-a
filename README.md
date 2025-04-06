@@ -5,8 +5,6 @@
 
 An enthusiastic engineering graduate with a passion for tackling complex problems and devising innovative solutions. I thrive on challenges and am always eager to learn and adapt in a fast-paced environment.
 
-![Logo](https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif)
-
 Throughout my academic journey, I have participated in numerous hands-on projects, and collaborated with cross-functional teams to deliver impactful results.
 
 As I embark on my professional journey, I am seeking opportunities to contribute my skills and grow within a dynamic and forward-thinking organization. Let's connect and explore how we can work together to drive innovation and success!<br>
