@@ -5,8 +5,7 @@
 
 An enthusiastic engineering graduate with a passion for tackling complex problems and devising innovative solutions. I thrive on challenges and am always eager to learn and adapt in a fast-paced environment.
 
-[<img src="https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif">]()
-
+![Logo](https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif")
 
 Throughout my academic journey, I have participated in numerous hands-on projects, and collaborated with cross-functional teams to deliver impactful results.
 
