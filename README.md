@@ -18,8 +18,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://www.linkedin.com/in/rutvij-ambodkar/)
 [<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Facebook Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
 [<img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="Twitter Logo" width="50px" height="50px">](https://x.com/007rutvij)
-
-[![Email Me](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png)](mailto:rutvij@example.com?subject=Hello%20Rutvij)
+[<img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="Gmail Logo" width="50px" height="50px">](mailto:rutvij@example.com?subject=Hello%20Rutvij)
 
 <h3>Languages and Tools</h3> <br>
 
