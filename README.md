@@ -14,6 +14,10 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 <h4> 👇👇 If ever want to contact me! 👇👇 </h4> <br>
 
+
+<a href="https://www.instagram.com/rutvij_a/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="50px" height="50px"></a>
+
+
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://www.linkedin.com/in/rutvij-ambodkar/)
 [<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Facebook Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
