@@ -9,11 +9,6 @@ Throughout my academic journey, I have participated in numerous hands-on project
 
 As I embark on my professional journey, I am seeking opportunities to contribute my skills and grow within a dynamic and forward-thinking organization. Let's connect and explore how we can work together to drive innovation and success!<br>
 
-<h4> 👇👇 Please do have a look at my GitHub Stats 👇👇 </h4>
-
-![rutvij-a's Stats](https://github-readme-stats.vercel.app/api?username=rutvij-a&theme=default&show_icons=true&hide_border=true&count_private=true)<br>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rutvij-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rutvij-a&theme=dark&hide_border=false)<br/>
@@ -22,7 +17,15 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 ---
 [![](https://komarev.com/ghpvc/?username=rutvij-a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rutvij-a&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=rutvij-a&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <h4> 👇👇 If ever want to contact me! 👇👇 </h4> <br>
 
