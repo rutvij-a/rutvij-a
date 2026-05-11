@@ -9,19 +9,10 @@ Throughout my academic journey, I have participated in numerous hands-on project
 
 As I embark on my professional journey, I am seeking opportunities to contribute my skills and grow within a dynamic and forward-thinking organization. Let's connect and explore how we can work together to drive innovation and success!<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rutvij-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rutvij-a&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=rutvij-a&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rutvij-a&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=rutvij-a&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -38,9 +29,9 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 <h3>Languages and Tools</h3> <br>
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">]()
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" height="50px">]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" height="50px">](https://www.w3.org/Style/CSS/Overview.en.html)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-nnHtdLGKfMdl62rDAml_Boq3u1SZA76iNuGtg79V7uoFm38xezL9eMXg5ooYe78PGE&usqp=CAU" alt="JS Logo" width="50px" height="50px">](https://www.javascript.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
 
 
-![rutvij-a's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij-a&theme=default&show_icons=true&hide_border=true&layout=compact)
+![rutvij-a's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact
