@@ -13,6 +13,17 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 ![rutvij-a's Stats](https://github-readme-stats.vercel.app/api?username=rutvij-a&theme=default&show_icons=true&hide_border=true&count_private=true)<br>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rutvij-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rutvij-a&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=rutvij-a&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h4> 👇👇 If ever want to contact me! 👇👇 </h4> <br>
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
