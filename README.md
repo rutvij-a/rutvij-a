@@ -24,7 +24,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 <h3>Languages and Tools</h3> <br>
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">]()
-[<img src="http://www.clker.com/cliparts/0/O/r/n/h/k/css.svg.med.png" alt="CSS Logo" width="50px" height="50px">]()
+[<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.hiclipart.com%2Fsearch%3Fclipart%3Dhtml&opi=89978449" alt="CSS Logo" width="50px" height="50px">]()
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-nnHtdLGKfMdl62rDAml_Boq3u1SZA76iNuGtg79V7uoFm38xezL9eMXg5ooYe78PGE&usqp=CAU" alt="JS Logo" width="50px" height="50px">](https://www.javascript.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
 
