@@ -34,4 +34,4 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
 
 
-![rutvij-a's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+![rutvij-a's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
