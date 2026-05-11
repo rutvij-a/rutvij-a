@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Hello+I+am+Rutvij;Welcome+%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F;+To+my+profile+!!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&pause=1000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+I+am+Rutvij;Welcome+%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F;+To+my+profile+!!!!!)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔧 Engineering Graduate | Problem Solver | Innovator
 
