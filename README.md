@@ -17,7 +17,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 ---
 
-<h2>Tech Stack:</h2> <br>
+<h2>💻 Tech Stack:</h2> <br>
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" height="50px">](https://www.w3.org/Style/CSS/Overview.en.html)
