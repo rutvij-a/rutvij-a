@@ -17,7 +17,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 ---
 
-<h3>Languages and Tools</h3> <br>
+<h3>Languages and Tools:</h3> <br>
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" height="50px">](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -28,7 +28,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 ---
 
-<h3> 📬 Let's Connect </h3> <br>
+<h2> 📬 Let's Connect: </h2> <br>
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="50px" height="50px">](https://www.instagram.com/rutvij_a/)
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://www.linkedin.com/in/rutvij-ambodkar/)
