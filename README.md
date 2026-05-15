@@ -10,23 +10,34 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 ---
 
-## 💼 Featured Projects
-- **Sentiment Analysis Virtual Bot (Tweetler)** – AI-powered sentiment analysis system for social media
-- **Academic Record Management System** – Student data and record management platform
-- **Android Based Electric Switch** – IoT-based smart switch automation project
-- **Smart Health Monitoring System** – IoT healthcare monitoring solution
-- **Face Touch Alert Wrist Band** – Smart wearable safety device
-- **Smart Phone Charging Using Footstep Power Generator** – Renewable energy-based charging concept
-- **The Book Look** – Book-related web application project
-
----
-
 ## 🌱 Currently Exploring
 - Full Stack Development
 - Artificial Intelligence & Machine Learning
 - IoT & Smart Automation
 - Open Source Contributions
 - Modern Web Technologies
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 Sentiment Analysis Virtual Bot (Tweetler)
+AI-powered virtual bot that analyzes social media sentiment using machine learning and NLP techniques.
+
+## 📚 Academic Record Management System
+Web-based platform for managing student academic records efficiently.
+
+## ⚡ Android Based Electric Switch
+Smart IoT-enabled electrical switch controlled using Android devices.
+
+## ❤️ Smart Health Monitoring System
+IoT healthcare solution designed to monitor patient health parameters in real time.
+
+## ⌚ Face Touch Alert Wrist Band
+Wearable smart device created for hygiene and awareness monitoring.
+
+## 🔋 Smart Phone Charging Using Footstep Power Generator
+Renewable energy project converting footsteps into electrical energy for charging devices.
 
 ---
 
