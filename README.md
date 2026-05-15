@@ -18,10 +18,11 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 <h2>💻 Tech Stack:</h2> <br>
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">]()
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" height="50px">](https://www.w3.org/Style/CSS/Overview.en.html)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-nnHtdLGKfMdl62rDAml_Boq3u1SZA76iNuGtg79V7uoFm38xezL9eMXg5ooYe78PGE&usqp=CAU" alt="JS Logo" width="50px" height="50px">](https://www.javascript.com/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-ZwxBaQKgy2uHvX3OTSkAAx3yK-78pB5JA&s" alt="HTML Logo" width="50px" height="50px">]() 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" height="50px">](https://www.w3.org/Style/CSS/Overview.en.html) 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-nnHtdLGKfMdl62rDAml_Boq3u1SZA76iNuGtg79V7uoFm38xezL9eMXg5ooYe78PGE&usqp=CAU" alt="JS Logo" width="50px" height="50px">](https://www.javascript.com/) 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/) 
+[<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Logo" width="50px" height="50px">](https://www.sql.org/) 
 
 ![rutvij-a's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -33,7 +34,7 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 [<img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" alt="Facebook Logo" width="50px" height="50px">](https://www.facebook.com/rutvij.ambodkar)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="52px" height="52px">](https://www.instagram.com/rutvij_a/)
 [<img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="Twitter Logo" width="50px" height="50px">](https://x.com/007rutvij)
-[<img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="Gmail Logo" width="50px" height="50px">](mailto:rutvijambodkar@gmail.com.com?subject=Hello%20Rutvij)
+[<img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="Gmail Logo" width="50px" height="50px">](mailto:rutvijambodkar@gmail.com?subject=Hello%20Rutvij)
 
 
 
