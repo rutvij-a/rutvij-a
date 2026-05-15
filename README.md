@@ -10,6 +10,33 @@ As I embark on my professional journey, I am seeking opportunities to contribute
 
 ---
 
+## 💼 Featured Projects
+- **Sentiment Analysis Virtual Bot (Tweetler)** – AI-powered sentiment analysis system for social media
+- **Academic Record Management System** – Student data and record management platform
+- **Android Based Electric Switch** – IoT-based smart switch automation project
+- **Smart Health Monitoring System** – IoT healthcare monitoring solution
+- **Face Touch Alert Wrist Band** – Smart wearable safety device
+- **Smart Phone Charging Using Footstep Power Generator** – Renewable energy-based charging concept
+- **The Book Look** – Book-related web application project
+
+---
+
+## 🌱 Currently Exploring
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- IoT & Smart Automation
+- Open Source Contributions
+- Modern Web Technologies
+
+---
+
+## 📚 Publications
+- *Android Based Electric Switch* – IRJET
+- *Smart Health Monitoring System using IoT* – IRJET
+- *Tweetler (Sentiment Analysis Virtual Bot)* – IJSREM
+- *Sentiment Analysis Virtual Bot* – Journal of Xi'an University of Architecture & Technology
+
+---
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rutvij-a&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rutvij-a&theme=default&hide_border=false)<br/>
